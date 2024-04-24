@@ -9,7 +9,7 @@ This is a simple Tic Tac Toe game implemented in Python using Turtle graphics fo
 3. Navigate to the directory where you cloned the repository.
 4. Run the game by executing the following command:
     ```
-    python tic_tac_toe_turtle.py
+    python main.py
     ```
 5. The game window will appear, allowing you to play Tic Tac Toe.
 6. Click on the squares to place your mark (X or O).
