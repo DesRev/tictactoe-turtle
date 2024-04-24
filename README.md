@@ -24,7 +24,7 @@ This is a simple Tic Tac Toe game implemented in Python using Turtle graphics fo
 
 ## Files
 
-- `tic_tac_toe_turtle.py`: Contains the main Python script implementing the Tic Tac Toe game logic with Turtle graphics.
+- `main.py`: Contains the main Python script implementing the Tic Tac Toe game logic with Turtle graphics.
 - `README.md`: This file, providing information about the game and how to play it.
 
 ## Requirements
