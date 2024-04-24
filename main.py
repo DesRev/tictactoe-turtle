@@ -71,8 +71,6 @@ def draw(b):
             draw_piece(i, j, b[i][j])
     screen.update()
 
-
-# return 1 if player 1 wins, 2 if player 2 wins, 3 if tie, 0 if game is not over
 def gameover(b):
     if b[0][0] > 0 and b[0][0] == b[0][1] and b[0][1] == b[0][2]: return b[0][0]
     if b[1][0] > 0 and b[1][0] == b[1][1] and b[1][1] == b[1][2]: return b[1][0]
